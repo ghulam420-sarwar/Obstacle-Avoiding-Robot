@@ -2,7 +2,7 @@
 
 An Arduino UNO robot car that scans its surroundings with an HC-SR04 ultrasonic sensor mounted on a servo, detects obstacles, and autonomously steers toward the clearest path. Includes a buzzer alert and serial debug output.
 
-![Circuit diagram](images/circuit_diagram.png)
+![Circuit diagram](https://github.com/ghulam420-sarwar/Obstacle-Avoiding-Robot/blob/main/circuit_diagram.png)
 
 ## How It Works
 
